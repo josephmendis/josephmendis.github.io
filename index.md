@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-My info goes here.
+I am a Senior at Gallaudet University studying Information Technology with a concentration in Cybersecurity
 
 ## About My Mentor
 
